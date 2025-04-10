@@ -1,7 +1,7 @@
 ## Run from terminal:
 
-docker build -t creditcard.azurecr.io/cc:latest .
+docker build -t creditcard1.azurecr.io/cc:latest .
 
-docker login creditcard.azurecr.io
+docker login creditcard1.azurecr.io
 
-docker push creditcard.azurecr.io/cc:latest
+docker push creditcard1.azurecr.io/cc:latest
